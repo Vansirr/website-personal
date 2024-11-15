@@ -1,0 +1,4 @@
+function myFunction(){
+  document.getElementById("gambar").src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShTYhe7ZU8Zz_pWGjQETf6TfDAR3JFiwUSig&s";
+  document.getElementById("tulisan").innerHTML = "Hallo indri selamat ulang tahun yach, tadi gw pake foto Choi Jeongmin karna ga ada foto lu kocag. Btw semoga panjang umur, sehat selalu, makin pinter biar lu ga dongo dongo amat aokwaokwaowkaokwo. Terakhir, lebih berhati hati lagi dalam memposting sesuatu, coba bayangin kalau aku ga bisa napas karena u took my breath away? it should be illegal to be this beautfiul. i hope you like it btw hadiah nyusul bye bye."
+}
